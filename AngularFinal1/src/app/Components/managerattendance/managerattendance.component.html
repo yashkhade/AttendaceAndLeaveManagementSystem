@@ -1,0 +1,135 @@
+<nav class="navbar">
+    <li style="font-family: Georgia, 'Times New Roman', Times, serif ; color:indigo;"><a routerLink="../employeemanager">Home</a></li>
+    <!-- <li><a routerLink="../employee">Employee</a></li>
+    <li><a routerLink="../project">Project</a></li>
+    <li><a routerLink="../leave">Leave Requests</a></li>
+    <li><a routerLink="../attendance">Attendance</a></li>
+    <li><a routerLink="../viewemployee">View Employees</a></li> -->
+
+    <li style="font-family: Georgia, 'Times New Roman', Times, serif ; color:indigo;" id="logout"><a routerLink="../login">Log Out</a></li>
+</nav>
+<nav style="padding: 20px 0px 0px 0px;">
+  <label for="touch_viewallattendance"><span>View All Attendance</span></label> 
+  <input type="checkbox" id="touch_viewallattendance">
+  <ul class="slide">
+    <form #form ngNativeValidate>
+      <label >EmployeeID:</label>
+      <input [(ngModel)] = "eid"  type="text" id="empid" name="empid" required><br><br>
+    
+      
+      <button (click)="GetAttendance()" type="submit">View Attendance</button>
+      <h5 style="color: coral;">{{this.msg}}</h5>
+     </form>
+      <table align="center">
+          <tr>
+          <th>EmployeeID</th>
+          <th>Attendance Date</th>
+          <th>Attendance Status</th>
+          </tr>
+          <tr *ngFor="let item of a1">
+            <td>{{item.EmployeeId}}</td>
+            <td>{{item.AttendanceDate | date}}</td>
+            <td>{{item.AttendanceCheck}}</td>
+            </tr>
+        </table>
+  </ul>
+</nav> 
+<hr>
+<!-- ************************************************ -->
+<!-- <nav style="padding: 20px 0px 0px 0px;">
+  <label for="touch_viewbydate"><span>View Attendance By Date</span></label> 
+  <input type="checkbox" id="touch_viewbydate">
+  <ul class="slide">
+      <form #form ngNativeValidate>
+          <label >EmployeeID:</label>
+          <input [(ngModel)] = "eid"  type="text" id="empid" name="empid" required><br><br>
+          
+          <label >Date:</label>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <input [(ngModel)] = "adate" type="date" id="date" name="date"  required><br><br>
+        
+          
+          <button (click)="GetAttendanceByDate()" type="submit">View Attendance</button>
+          <h5 style="color: coral;">{{this.msg1}}</h5>
+         </form>
+          <table align="center">
+          <tr>
+          <th>EmployeeID</th>
+          <th>Attendance Date</th>
+          <th>Attendance Status</th>
+          </tr>
+          <tr>
+            <td>{{a.EmployeeId}}</td>
+            <td>{{a.AttendanceDate | date}}</td>
+            <td>{{a.AttendanceCheck}}</td>
+            </tr>
+        </table>
+  </ul>
+</nav>  -->
+<!-- ******************************************************* -->
+
+<!-- <hr> -->
+<nav style="padding: 20px 0px 0px 0px;">
+  <label for="touch_viewbymonth"><span>View Attendance By Month</span></label> 
+  <input type="checkbox" id="touch_viewbymonth">
+  <ul class="slide">
+      <form #form ngNativeValidate>
+          <label >EmployeeID:</label>
+          <input [(ngModel)] = "eid" type="text" id="empid" name="empid" required><br><br>
+          
+          <label >Month:</label>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <input [(ngModel)] = "mon" type="mon" id="mon" name="mon"  required><br><br>
+          <label >Year:</label>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <input [(ngModel)] = "yr" type="year" id="year" name="year"  required><br><br>
+        
+          
+          <button (click)="GetAttendanceByMonth()" type="submit">View Attendance</button>
+          <h5 style="color: coral;">{{this.msg2}}</h5>
+        </form>
+    <table align="center">
+          <tr>
+            <th>EmployeeID</th>
+            <th>Attendance Date</th>
+            <th>Attendance Status</th>
+          </tr>
+          <tr *ngFor="let item of a2">
+          <td>{{item.EmployeeId}}</td>
+          <td>{{item.AttendanceDate | date}}</td>
+          <td>{{item.AttendanceCheck}}</td>
+          </tr>
+        </table>
+  </ul>
+</nav> 
+<hr>
+<nav style="padding: 20px 0px 0px 0px;">
+  <label for="touch_viewbyyear"><span>View Attendance By Year</span></label> 
+  <input type="checkbox" id="touch_viewbyyear">
+  <ul class="slide">
+          <form #form ngNativeValidate>
+            <label >EmployeeID:</label>
+            <input [(ngModel)] = "eid" type="text" id="empid" name="empid" required><br><br>
+            
+            <label >Year:</label>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <input [(ngModel)] = "yr" type="year" id="year" name="year"  required><br><br>
+          
+            
+            <button (click)="GetAttendanceByYear()" type="submit">View Attendance</button>
+            <h5 style="color: coral;">{{this.msg3}}</h5>
+          </form>
+      <table align="center">
+          <tr>
+            <th>EmployeeID</th>
+            <th>Attendance Date</th>
+            <th>Attendance Status</th>
+          </tr>
+          <tr *ngFor="let item of a3">
+          <td>{{item.EmployeeId}}</td>
+          <td>{{item.AttendanceDate | date}}</td>
+          <td>{{item.AttendanceCheck}}</td>
+          </tr>
+        </table>
+  </ul>
+</nav> 

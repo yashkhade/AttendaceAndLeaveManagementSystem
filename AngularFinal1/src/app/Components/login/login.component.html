@@ -1,0 +1,23 @@
+<main>
+    <div class="row">
+        <div class="colm-form">
+            <div class="form-container">
+                <p style="display: inline;">Login As</p>
+                <form #form ngNativeValidate>
+                <select [(ngModel)]="login.Role" name="Role" id="select" placeholder="Role" required>
+                    <option value="employee">Employee</option>
+                    <option value="admin">Admin</option>
+                </select>
+                <input type="text" [(ngModel)]="login.EmployeeId" name="ID" placeholder="Employee ID" required>
+                <input type="password" [(ngModel)]="login.Password" name="Pass" placeholder="Password" required>
+                <button (click)="validate()" class="btn-login" >Login</button>
+            </form>
+                <span>
+                {{ErrorMessage}}
+            </span>
+            <br>
+        <i class="alertmsg" [innerHTML]="errmsg"></i>
+            </div>
+        </div>
+    </div>
+</main>

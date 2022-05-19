@@ -1,0 +1,75 @@
+<nav class="navbar">
+    <li style="font-family: Georgia, 'Times New Roman', Times, serif ; color:indigo;"><a routerLink="../employeemanager">Home</a></li>
+    <!-- <li><a routerLink="../employee">Employee</a></li>
+    <li><a routerLink="../project">Project</a></li>
+    <li><a routerLink="../leave">Leave Requests</a></li>
+    <li><a routerLink="../attendance">Attendance</a></li>
+    <li><a routerLink="../viewemployee">View Employees</a></li> -->
+  
+    <li style="font-family: Georgia, 'Times New Roman', Times, serif ; color:indigo;" id="logout"><a routerLink="../login">Log Out</a></li>
+  </nav>
+  <nav style="padding: 20px 0px 0px 0px;">
+    <label for="touch_viewleave"><span>View Leave Request</span></label> 
+    <input type="checkbox" id="touch_viewleave">
+    <ul class="slide">
+      <h5 style="color: coral;">{{this.msg1}}</h5>
+      <table align="center">
+        <tr>
+          <th>LeaveID</th>
+        <th>EmployeeID</th>
+        <th> Leave Start Date</th>
+        <th> Leave End Date</th>
+        <th>Leave Status</th>
+        <th>Action</th>
+        <th>Submit</th>
+        
+      </tr>
+        <tr *ngFor="let item of Leavelist">
+          <td>{{item.LeaveId}}</td>
+        <td>{{item.EmployeeId}}</td>
+        <td>{{item.LeaveStartDate | date}}</td>
+        <td>{{item.LeaveEndDate  | date}}</td>
+        <td>{{item.LeaveStatus}}</td>
+        <td>
+          <select [(ngModel)]="item.LeaveStatus" name="Role" id="select" placeholder="Status" required>
+            <option value="approve">Accept</option>
+            <option value="reject">Reject</option>
+          </select>
+        </td>
+      <td><button (click)="PendingLeaveResponse(item.LeaveId,item.LeaveStatus)" type="button">Update Status</button></td>
+        
+        </tr>
+      </table>
+    </ul>
+
+  </nav> 
+<hr>
+<nav>
+  <label for="touch_viewapplied"><span>View Responded Leaves</span></label> 
+  <input type="checkbox" id="touch_viewapplied">
+  <ul class="slide">
+    
+  <label for="Empid">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Employee ID&nbsp;&nbsp;</label>
+  <input [(ngModel)]="eid" type="text" id="empid" name="empid" required>
+  <br>
+  <br>
+  <button (click)="GetLeaves()" type="submit" >Get Leaves</button>
+  <br>
+       <i class="alertmsg" [innerHTML]="errmsg"></i>
+    <h5 style="color: coral;">{{this.msg}}</h5>
+    <table align="center">
+      <tr>
+      <th>LeaveId</th>
+      <th> Leave Start Date</th>
+      <th> Leave End Date</th>
+      <th>Status</th>
+      </tr>
+      <tr *ngFor="let item of list">
+      <td>{{item.LeaveId}}</td>
+      <td>{{item.LeaveStartDate | date}}</td>
+      <td>{{item.LeaveEndDate | date}}</td>
+      <td>{{item.LeaveStatus}}</td>
+      </tr>
+    </table>
+  </ul>
+</nav>  

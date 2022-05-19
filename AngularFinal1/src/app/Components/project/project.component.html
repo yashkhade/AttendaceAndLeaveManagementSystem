@@ -1,0 +1,136 @@
+<nav class="navbar">
+  <li style="font-family: Georgia, 'Times New Roman', Times, serif ; color:indigo;"><a routerLink="../admin">Home</a></li>
+  <!-- <li><a routerLink="../employee">Employee</a></li>
+  <li><a routerLink="../leave">Leave Requests</a></li>
+  <li><a routerLink="../attendance">Attendance</a></li>
+  <li><a routerLink="../viewemployee">View Employees</a></li> -->
+
+  <li style="font-family: Georgia, 'Times New Roman', Times, serif ; color:indigo;" id="logout"><a routerLink="../login">Log Out</a></li>
+</nav>
+<nav>
+  <label for="touch_AddProject"><span>Add Project</span></label>               
+  <input type="checkbox" id="touch_AddProject"> 
+
+  <ul class="slide">
+    <form ngNativeValidate> 
+      <label for="Pname">Project Name:</label>
+      <input [(ngModel)]="proj.ProjectName" type="text" id="Pname" name="Pname" value="" required><br><br>
+
+      <button (click)="Add()" type="button" >Add Project</button>
+      <br>
+        <i class="alertmsg" [innerHTML]="errmsg"></i>
+    </form>
+  </ul>
+</nav>
+<!-- ************************************************ -->
+<hr>
+<nav>
+  <label for="touch_DeleteProject"><span>Remove Project</span></label>               
+  <input type="checkbox" id="touch_DeleteProject"> 
+
+  <ul class="slide">
+    <form>
+      <label for="Pid">Project ID:</label>
+      <input [(ngModel)]="id" type="text" id="Pid" name="Pid" value="" required><br><br>
+      <button (click)="DeleteProjectById()"  type="button" >Remove Project</button>
+      <br>
+        <i class="alertmsg" [innerHTML]="errmsg"></i>
+    </form>
+  </ul>
+</nav> 
+<hr>
+<nav>
+  <label for="touch_UpdateProject"><span>Update Project</span></label>               
+  <input type="checkbox" id="touch_UpdateProject"> 
+
+  <ul class="slide">
+    <form>
+      <label for="Pid">Project ID:</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <input [(ngModel)]="ProjId" type="text" id="Projid" name="Projid" value="" required><br><br>
+      
+      <label for="Pname">Project Name:</label>
+      <input [(ngModel)]="ProjName"  type="text" id="Projname" name="Projname" value="" required><br><br>
+      
+      <button (click)="UpdateProject()"  type="submit" >Update Project </button>
+      <br>
+        <i class="alertmsg" [innerHTML]="errmsg"></i>
+    </form>
+  </ul>
+</nav> 
+<hr>
+<nav >
+  <label for="touch_viewproject"><span>View Project</span></label> 
+  <input type="checkbox" id="touch_viewproject">
+  <ul class="slide">
+    <h5 style="color: coral;">{{this.msg1}}</h5>
+  <table align="center">
+      <tr>
+      <th>ProjectId</th>
+      <th>ProjectName</th>
+      </tr>
+      <tr *ngFor="let item of Projectlist">
+      <td>{{item.ProjectId}}</td>
+      <td>{{item.ProjectName}}</td>
+      </tr>
+  </table>
+  </ul>
+</nav>
+<hr>
+<nav>
+  <label for="touch_AssignProjecttoEmployee"><span>Assign Project to Employee</span></label>               
+  <input type="checkbox" id="touch_AssignProjecttoEmployee"> 
+  <ul class="slide">
+    <form>
+      <label for="Pid">Project ID:</label>&nbsp;&nbsp;&nbsp;&nbsp;
+      <input [(ngModel)]="ProjId" type="text" id="Pid" name="Pid" value="" required><br><br>
+      
+      <label for="eid">Employee ID:</label>
+      <input [(ngModel)]="EmpId" type="text" id="eid" name="eid" value="" required><br><br>
+      
+      <button (click)="addEmployeeProject()" type="submit"> Assign </button>
+      
+      <br>
+        <i class="alertmsg" [innerHTML]="errmsg"></i>
+    </form>
+  </ul>
+</nav>
+<hr>
+<nav>
+  <label for="touch_UpdateAssignProjecttoEmployee"><span>Update Project to Employee</span></label>               
+  <input type="checkbox" id="touch_UpdateAssignProjecttoEmployee"> 
+
+  <ul class="slide">
+    <form>
+      <label for="Pid">Project ID:</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <input [(ngModel)]="ProjId" type="text" id="Pid" name="Pid" value="" required><br><br>
+      
+      <label for="eid">Employee ID:</label>&nbsp;
+      <input [(ngModel)]="EmpId" type="text" id="eid" name="eid" value="" required><br><br>
+      
+      <button (click)="UpdateEmployeeProject()" type="submit"> Update Assign </button>
+      <br>
+        <i class="alertmsg" [innerHTML]="errmsg"></i> 
+    </form>
+  </ul>
+</nav>
+<hr>
+<nav >
+  <label for="touch_view"><span>View Projects Assigned To Employee</span></label> 
+  <input type="checkbox" id="touch_view">
+  <ul class="slide">
+    <h5 style="color: coral;">{{this.msg3}}</h5>
+  <table align="center">
+      <tr>
+        <th>EmployeeId</th>
+      <th>ProjectId</th>
+      <th>ProjectName</th>
+      </tr>
+      <tr *ngFor="let item of EmpProject">
+        <td>{{item.EmployeeId}}</td>
+      <td>{{item.ProjectId}}</td>
+      <td>{{item.ProjectName}}</td>
+      </tr>
+  </table>
+  </ul>
+</nav> 
+ 

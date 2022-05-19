@@ -1,0 +1,116 @@
+body{
+    font-size: x-large;
+}
+h2{
+    text-align: center;
+}
+form{
+    text-align: center;
+}
+div{
+    margin: 50px;
+
+}
+a{
+  text-decoration: none;
+  cursor: pointer;
+}
+#button1{
+    font-size: x-large;
+    background-color: lightblue;
+}
+.navbar{
+  background-color: #dddddd;
+  padding: 17px 0px 15px 6px;
+}
+.navbar li{
+  display: inline;
+}
+.navbar #logout{
+  float: right;
+}
+.navbar li a{
+  text-align: center;
+  padding: 14px 16px;
+  background-color: #dddddd;
+}
+.navbar li a:hover{
+  background-color: #608dc9;
+}
+/* .nav2
+{
+    background-color: rgb(186, 186, 224);
+    text-align: center;
+} */
+li{
+    background-color: rgb(170, 170, 223);
+    text-align: center;
+}
+/* ******************************************* */
+
+.alertmsg{
+  color: coral;
+}
+span {
+  padding : 10px;
+  background : #334453; 
+  color : white;
+  font-size : 1.2em;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  cursor : pointer;
+  display: block;
+}
+  
+input
+{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+table,th,td{
+  border: #668199;
+  text-align: center;
+  border: 2px solid rgb(16, 2, 94);
+}
+tr:nth-child(even) {
+  background-color: hsl(248, 100%, 93%);
+}
+span::after {
+  float: right;
+  right: 10%;
+  content: "+";
+}
+  
+.slide {
+  clear:both;
+  width:97%;
+  height:0px;
+  overflow: hidden;
+  text-align: center;
+  transition: height .4s ease;
+  background-color: #668199;
+}
+
+  
+.slide li {padding : 10px;}
+  
+#touch_AddEmployee {position: absolute; opacity: 0; height: 0px;}    
+
+#touch_AddEmployee:checked + .slide {height: auto;padding-top: 30px;}
+
+#touch_DeleteEmployee {position: absolute; opacity: 0; height: 0px;}    
+
+#touch_DeleteEmployee:checked + .slide {height: auto;padding-top: 30px;}
+
+#touch_UpdateEmployee {position: absolute; opacity: 0; height: 0px;}    
+
+#touch_UpdateEmployee:checked + .slide {height: auto;padding-top: 30px;}
+
+#touch_viewEmployee {position: absolute; opacity: 0; height: 0px;}    
+
+#touch_viewEmployee:checked + .slide {height: 300px;padding-top: 30px;}
+#touch_viewemployee {position: absolute; opacity: 0; height: 0px;}    
+  
+  #touch_viewemployee:checked + .slide {height: auto;padding-top: 30px;}
+
+
+
+/* ******************************************* */

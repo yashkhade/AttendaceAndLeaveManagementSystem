@@ -1,0 +1,77 @@
+body{
+    font-size: x-large;
+}
+h2{
+    text-align: center;
+}
+form{
+    text-align: center;
+}
+div{
+    margin: 50px;
+
+}
+a{
+  text-decoration: none;
+  cursor: pointer;
+}
+#button1{
+    font-size: x-large;
+    background-color: lightblue;
+}
+.navbar{
+  background-color: #dddddd;
+  padding: 0px 0px 50px 6px;
+}
+.navbar li{
+  /* display: block; */
+  display: grid;
+  padding-bottom: 30px;
+}
+.navbar #logout{
+  float: right;
+  padding: 0px 0px 0px 0px;
+}
+.navbar li a{
+  text-align: center;
+  padding: 14px 14px 16px 16px;
+  background-color: #dddddd;
+}
+.navbar li a:hover{
+  background-color: #608dc9;
+}
+/* .nav2
+{
+    background-color: rgb(186, 186, 224);
+    text-align: center;
+} */
+li{
+    background-color: rgb(170, 170, 223);
+    text-align: center;
+}
+/* ******************************************* */
+
+  
+span {
+  padding : 10px;
+  background : #334453; 
+  color : white;
+  font-size : 1.2em;
+  font-variant : small-caps;
+  cursor : pointer;
+  display: block;
+}
+  
+input
+{
+  font-variant : arial;
+}
+span::after {
+  float: right;
+  right: 10%;
+  content: "+";
+}
+  
+
+
+/* ******************************************* */

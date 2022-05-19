@@ -1,0 +1,138 @@
+<nav class="navbar">
+    <li><a style="font-family: Georgia, 'Times New Roman', Times, serif ; color:indigo;" routerLink="../admin">Home</a></li>
+    <!-- <li><a routerLink="../employee">Employee</a></li>
+    <li><a routerLink="../project">Project</a></li>
+    <li><a routerLink="../leave">Leave Requests</a></li>
+    <li><a routerLink="../attendance">Attendance</a></li>
+    <li><a routerLink="../viewemployee">View Employees</a></li> -->
+
+    <li id="logout"><a style="font-family: Georgia, 'Times New Roman', Times, serif ; color:indigo;" routerLink="../login">Log Out</a></li>
+</nav>
+<nav >
+  
+    <label for="touch_AddEmployee"><span>Add Employee</span></label>               
+    <input type="checkbox" id="touch_AddEmployee"> 
+  
+    <ul class="slide">
+      <form  #form ngNativeValidate>
+        <label >Employee Name:</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <input [(ngModel)]="admin.EmployeeName" type="text" id="empname" name="empname" required><br><br>
+        
+        <label >Employee EmailId:</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <input [(ngModel)]="admin.EmployeeEmailId" type="email" id="empphoneno" name="empphoneno"  required><br><br>
+        
+        <label>Employee's DOB:</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <input [(ngModel)]="admin.EmployeeDOB" type="date" id="empdob" name="empdob" max="2002-01-01" required><br><br>
+        
+        <label>Employee's Designation:</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <select [(ngModel)]="admin.EmployeeDesignation" name="empdesig" id="select" placeholder="EmployeeDesignation" required>
+          <option value="employee">Employee</option>
+          <option value="manager">Manager</option>
+      </select>
+      <br><br>
+        
+       
+        <label>Employee's Department:</label>
+        <input [(ngModel)]="admin.EmployeeDepartment" type="text" id="empdept" name="empdept"  required><br><br>
+  
+        <label>Employee's Password:</label>&nbsp;&nbsp;
+        <input [(ngModel)]="admin.EmployeePassword"  type="text" id="emppass" name="emppass"  required><br><br>
+        
+        <button (click)="AddEmployee()" type="submit" >Add Employee</button>
+        <br>
+        <i class="alertmsg" [innerHTML]="errmsg"></i>
+      </form>
+    </ul>
+  </nav>
+  <!-- ************************************************ -->
+  <hr>
+  <nav>
+  
+    <label for="touch_DeleteEmployee"><span>Remove Employee</span></label>               
+    <input type="checkbox" id="touch_DeleteEmployee"> 
+  
+    <ul class="slide">
+      <form #form ngNativeValidate>
+        <label>Employee ID:</label>&nbsp;&nbsp;&nbsp;&nbsp;
+       <input [(ngModel)]="eid" type="text" id="employeeid" name="employeeid" value="" required><br><br>
+        
+       
+       <button (click)="DeleteEmployeeById()" type="submit">Remove</button>
+       
+       <br>
+       <i class="alertmsg" [innerHTML]="errmsgremove"></i>
+       
+     </form>
+      
+    </ul>
+  
+  </nav> 
+  <!-- ******************************************************* -->
+  <hr>
+  <nav>
+  
+    <label for="touch_UpdateEmployee"><span>Update Employee</span></label>               
+    <input type="checkbox" id="touch_UpdateEmployee"> 
+  
+    <ul class="slide">
+      <form ngNativeValidate>
+        <label for="eid">Employee ID:</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <input [(ngModel)] = "eid" type="text" id="eid" name="eid" value="" required><br><br>
+        
+       <label for="ename">Employee Name:</label>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       <input [(ngModel)] = "ename" type="text" id="ename" name="ename" value="" required><br><br>
+       
+       <label for="EmailId">Employee's Email ID:</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       <input [(ngModel)] = "email" type="email" id="phoneno" name="phoneno" value="" required><br><br>
+       
+       <label for="edob">Employee's DOB:</label>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       <input [(ngModel)] = "edob" type="date" id="edob" name="edob" value="" required><br><br>
+       
+       <label for="edesignation">Employee's Designation:</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       <select [(ngModel)]="admin.EmployeeDesignation" name="empdesig" id="select" placeholder="EmployeeDesignation" required>
+        <option value="employee">Employee</option>
+        <option value="manager">Manager</option>
+        </select>
+       <br>
+       <br>
+      
+       <label for="edept">Employee's Department:</label>
+       <input [(ngModel)] = "edept" type="text" id="edept" name="edept" value="" required><br><br>
+       
+       <button (click)="UpdateEmployee()" type="submit">Update</button>
+       
+       <br>
+       <i class="alertmsg" [innerHTML]="errmsgupdate"></i>
+     </form>
+     
+    </ul>
+  
+  </nav>
+  <hr>
+<nav >
+  <label for="touch_viewemployee"><span>View Employee</span></label> 
+  <input type="checkbox" id="touch_viewemployee">
+  <ul class="slide">
+    <h5 style="color: coral;">{{this.msg}}</h5>
+    <table>
+      <tr>
+      <th>EmployeeID</th>
+      <th>EmployeeName</th>
+      <th>EmployeeEmailId</th>
+      <th>EmployeeDOB</th>
+      <th>EmployeeDesignation</th>
+      <th>EmployeeDepartment</th>
+      </tr>
+      <tr *ngFor="let item of Emplist">
+      <td>{{item.EmployeeID}}</td>
+      <td>{{item.EmployeeName}}</td>
+      <td>{{item.EmployeeEmailId}}</td>
+      <td>{{item.EmployeeDOB | date}}</td>
+      <td>{{item.EmployeeDesignation}}</td>
+      <td>{{item.EmployeeDepartment}}</td>
+      </tr>
+  </table>
+  </ul>
+</nav> 
