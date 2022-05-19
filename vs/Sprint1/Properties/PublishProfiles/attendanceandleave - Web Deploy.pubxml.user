@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA9oYKC13Wc0uXCiOFSAFtOQAAAAACAAAAAAAQZgAAAAEAACAAAAA0ghfZRAOCTKp0yGIjQyCd7dtnkxVeVt8ZnKqkWSTuhQAAAAAOgAAAAAIAACAAAADBt2o3a74nBefAhpTRshAelrU6Iqwoe347Rf12Zl4F0IAAAABBkmkCN2tb0BCHEU+mfW6ZoyfLLOrhhp9XQOCfYGWEribXImFMiJNJe/VjNW+ven1+rFLCQdqr65e/lXs/+lKSP5tlfz/DHOws6xZLQgnk+k0IXX7kjdOMkqXu2lMYhUaP3aV1Y7+a14MYFl2nq6jzDPI2iv9/eg5z+YLHM/KbYkAAAAADqik8fZ5pVKwVA81tY2mIfR8iYw4m3HgVyUpybjJ3cCDtFEO+QmHin8Gp6vIA6CFMOBu62alTPstH921jpSZh</EncryptedPassword>
+    <History>True|2022-05-10T06:25:12.0488377Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <AzureDBConnectionStrings Include="Data Source=tcp:attendanceandleave.database.windows.net,1433;Initial Catalog=ALMSDatabase;User Id=yash@attendanceandleave;Password=Y@sh123123" />
+    <AzureDBConnectionStrings Include="Data Source=tcp:attendanceandleave.database.windows.net,1433;Initial Catalog=AttendanceAndLeaveMgmt;User Id=yash@attendanceandleave;Password=Y@sh123123" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,391 @@
+D:\Cap Lab\Sprint1\Sprint1\bin\Debug\net5.0\appsettings.Development.json
+D:\Cap Lab\Sprint1\Sprint1\bin\Debug\net5.0\appsettings.json
+D:\Cap Lab\Sprint1\Sprint1\bin\Debug\net5.0\Sprint1.exe
+D:\Cap Lab\Sprint1\Sprint1\bin\Debug\net5.0\Sprint1.deps.json
+D:\Cap Lab\Sprint1\Sprint1\bin\Debug\net5.0\Sprint1.runtimeconfig.json
+D:\Cap Lab\Sprint1\Sprint1\bin\Debug\net5.0\Sprint1.runtimeconfig.dev.json
+D:\Cap Lab\Sprint1\Sprint1\bin\Debug\net5.0\Sprint1.dll
+D:\Cap Lab\Sprint1\Sprint1\bin\Debug\net5.0\Sprint1.pdb
+D:\Cap Lab\Sprint1\Sprint1\bin\Debug\net5.0\Humanizer.dll
+D:\Cap Lab\Sprint1\Sprint1\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Cap Lab\Sprint1\Sprint1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Cap Lab\Sprint1\Sprint1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Cap Lab\Sprint1\Sprint1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Cap Lab\Sprint1\Sprint1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Cap Lab\Sprint1\Sprint1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Cap Lab\Sprint1\Sprint1\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Cap Lab\Sprint1\Sprint1\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Cap Lab\Sprint1\Sprint1\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Cap Lab\Sprint1\Sprint1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Cap Lab\Sprint1\Sprint1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Cap Lab\Sprint1\Sprint1\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Cap Lab\Sprint1\Sprint1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Cap Lab\Sprint1\Sprint1\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Cap Lab\Sprint1\Sprint1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Cap Lab\Sprint1\Sprint1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Cap Lab\Sprint1\Sprint1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Cap Lab\Sprint1\Sprint1\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Cap Lab\Sprint1\Sprint1\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Cap Lab\Sprint1\Sprint1\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Cap Lab\Sprint1\Sprint1\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Cap Lab\Sprint1\Sprint1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Cap Lab\Sprint1\Sprint1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Cap Lab\Sprint1\Sprint1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Cap Lab\Sprint1\Sprint1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Cap Lab\Sprint1\Sprint1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Cap Lab\Sprint1\Sprint1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Cap Lab\Sprint1\Sprint1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Cap Lab\Sprint1\Sprint1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Cap Lab\Sprint1\Sprint1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Cap Lab\Sprint1\Sprint1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Cap Lab\Sprint1\Sprint1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Cap Lab\Sprint1\Sprint1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Cap Lab\Sprint1\Sprint1\obj\Debug\net5.0\Sprint1.csproj.AssemblyReference.cache
+D:\Cap Lab\Sprint1\Sprint1\obj\Debug\net5.0\Sprint1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cap Lab\Sprint1\Sprint1\obj\Debug\net5.0\Sprint1.AssemblyInfoInputs.cache
+D:\Cap Lab\Sprint1\Sprint1\obj\Debug\net5.0\Sprint1.AssemblyInfo.cs
+D:\Cap Lab\Sprint1\Sprint1\obj\Debug\net5.0\Sprint1.csproj.CoreCompileInputs.cache
+D:\Cap Lab\Sprint1\Sprint1\obj\Debug\net5.0\Sprint1.MvcApplicationPartsAssemblyInfo.cs
+D:\Cap Lab\Sprint1\Sprint1\obj\Debug\net5.0\Sprint1.MvcApplicationPartsAssemblyInfo.cache
+D:\Cap Lab\Sprint1\Sprint1\obj\Debug\net5.0\scopedcss\bundle\Sprint1.styles.css
+D:\Cap Lab\Sprint1\Sprint1\obj\Debug\net5.0\staticwebassets\Sprint1.StaticWebAssets.Manifest.cache
+D:\Cap Lab\Sprint1\Sprint1\obj\Debug\net5.0\Sprint1.RazorTargetAssemblyInfo.cache
+D:\Cap Lab\Sprint1\Sprint1\obj\Debug\net5.0\Sprint1.csproj.CopyComplete
+D:\Cap Lab\Sprint1\Sprint1\obj\Debug\net5.0\Sprint1.dll
+D:\Cap Lab\Sprint1\Sprint1\obj\Debug\net5.0\refint\Sprint1.dll
+D:\Cap Lab\Sprint1\Sprint1\obj\Debug\net5.0\Sprint1.pdb
+D:\Cap Lab\Sprint1\Sprint1\obj\Debug\net5.0\Sprint1.genruntimeconfig.cache
+D:\Cap Lab\Sprint1\Sprint1\obj\Debug\net5.0\ref\Sprint1.dll
+D:\Sprint1\Sprint1\bin\Debug\net5.0\appsettings.Development.json
+D:\Sprint1\Sprint1\bin\Debug\net5.0\appsettings.json
+D:\Sprint1\Sprint1\bin\Debug\net5.0\Sprint1.exe
+D:\Sprint1\Sprint1\bin\Debug\net5.0\Sprint1.deps.json
+D:\Sprint1\Sprint1\bin\Debug\net5.0\Sprint1.runtimeconfig.json
+D:\Sprint1\Sprint1\bin\Debug\net5.0\Sprint1.runtimeconfig.dev.json
+D:\Sprint1\Sprint1\bin\Debug\net5.0\Sprint1.dll
+D:\Sprint1\Sprint1\bin\Debug\net5.0\Sprint1.pdb
+D:\Sprint1\Sprint1\bin\Debug\net5.0\Humanizer.dll
+D:\Sprint1\Sprint1\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Sprint1\Sprint1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Sprint1\Sprint1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Sprint1\Sprint1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Sprint1\Sprint1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Sprint1\Sprint1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Sprint1\Sprint1\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Sprint1\Sprint1\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Sprint1\Sprint1\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Sprint1\Sprint1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Sprint1\Sprint1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Sprint1\Sprint1\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Sprint1\Sprint1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Sprint1\Sprint1\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Sprint1\Sprint1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Sprint1\Sprint1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Sprint1\Sprint1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Sprint1\Sprint1\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Sprint1\Sprint1\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Sprint1\Sprint1\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Sprint1\Sprint1\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Sprint1\Sprint1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Sprint1\Sprint1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Sprint1\Sprint1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sprint1\Sprint1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Sprint1\Sprint1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sprint1\Sprint1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Sprint1\Sprint1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sprint1\Sprint1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Sprint1\Sprint1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sprint1\Sprint1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Sprint1\Sprint1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Sprint1\Sprint1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Sprint1\Sprint1\obj\Debug\net5.0\Sprint1.csproj.AssemblyReference.cache
+D:\Sprint1\Sprint1\obj\Debug\net5.0\Sprint1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sprint1\Sprint1\obj\Debug\net5.0\Sprint1.AssemblyInfoInputs.cache
+D:\Sprint1\Sprint1\obj\Debug\net5.0\Sprint1.AssemblyInfo.cs
+D:\Sprint1\Sprint1\obj\Debug\net5.0\Sprint1.csproj.CoreCompileInputs.cache
+D:\Sprint1\Sprint1\obj\Debug\net5.0\Sprint1.MvcApplicationPartsAssemblyInfo.cs
+D:\Sprint1\Sprint1\obj\Debug\net5.0\Sprint1.MvcApplicationPartsAssemblyInfo.cache
+D:\Sprint1\Sprint1\obj\Debug\net5.0\scopedcss\bundle\Sprint1.styles.css
+D:\Sprint1\Sprint1\obj\Debug\net5.0\staticwebassets\Sprint1.StaticWebAssets.Manifest.cache
+D:\Sprint1\Sprint1\obj\Debug\net5.0\Sprint1.RazorTargetAssemblyInfo.cache
+D:\Sprint1\Sprint1\obj\Debug\net5.0\Sprint1.csproj.CopyComplete
+D:\Sprint1\Sprint1\obj\Debug\net5.0\Sprint1.dll
+D:\Sprint1\Sprint1\obj\Debug\net5.0\refint\Sprint1.dll
+D:\Sprint1\Sprint1\obj\Debug\net5.0\Sprint1.pdb
+D:\Sprint1\Sprint1\obj\Debug\net5.0\Sprint1.genruntimeconfig.cache
+D:\Sprint1\Sprint1\obj\Debug\net5.0\ref\Sprint1.dll
+D:\Attendance&Leave Management System backend\Sprint1\bin\Debug\net5.0\appsettings.Development.json
+D:\Attendance&Leave Management System backend\Sprint1\bin\Debug\net5.0\appsettings.json
+D:\Attendance&Leave Management System backend\Sprint1\bin\Debug\net5.0\Sprint1.exe
+D:\Attendance&Leave Management System backend\Sprint1\bin\Debug\net5.0\Sprint1.deps.json
+D:\Attendance&Leave Management System backend\Sprint1\bin\Debug\net5.0\Sprint1.runtimeconfig.json
+D:\Attendance&Leave Management System backend\Sprint1\bin\Debug\net5.0\Sprint1.runtimeconfig.dev.json
+D:\Attendance&Leave Management System backend\Sprint1\bin\Debug\net5.0\Sprint1.dll
+D:\Attendance&Leave Management System backend\Sprint1\bin\Debug\net5.0\Sprint1.pdb
+D:\Attendance&Leave Management System backend\Sprint1\bin\Debug\net5.0\Humanizer.dll
+D:\Attendance&Leave Management System backend\Sprint1\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Attendance&Leave Management System backend\Sprint1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Attendance&Leave Management System backend\Sprint1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Attendance&Leave Management System backend\Sprint1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Attendance&Leave Management System backend\Sprint1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Attendance&Leave Management System backend\Sprint1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Attendance&Leave Management System backend\Sprint1\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Attendance&Leave Management System backend\Sprint1\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Attendance&Leave Management System backend\Sprint1\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Attendance&Leave Management System backend\Sprint1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Attendance&Leave Management System backend\Sprint1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Attendance&Leave Management System backend\Sprint1\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Attendance&Leave Management System backend\Sprint1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Attendance&Leave Management System backend\Sprint1\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Attendance&Leave Management System backend\Sprint1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Attendance&Leave Management System backend\Sprint1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Attendance&Leave Management System backend\Sprint1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Attendance&Leave Management System backend\Sprint1\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Attendance&Leave Management System backend\Sprint1\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Attendance&Leave Management System backend\Sprint1\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Attendance&Leave Management System backend\Sprint1\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Attendance&Leave Management System backend\Sprint1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Attendance&Leave Management System backend\Sprint1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Attendance&Leave Management System backend\Sprint1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Attendance&Leave Management System backend\Sprint1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Attendance&Leave Management System backend\Sprint1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Attendance&Leave Management System backend\Sprint1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Attendance&Leave Management System backend\Sprint1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Attendance&Leave Management System backend\Sprint1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Attendance&Leave Management System backend\Sprint1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Attendance&Leave Management System backend\Sprint1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Attendance&Leave Management System backend\Sprint1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Attendance&Leave Management System backend\Sprint1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Attendance&Leave Management System backend\Sprint1\obj\Debug\net5.0\Sprint1.csproj.AssemblyReference.cache
+D:\Attendance&Leave Management System backend\Sprint1\obj\Debug\net5.0\Sprint1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Attendance&Leave Management System backend\Sprint1\obj\Debug\net5.0\Sprint1.AssemblyInfoInputs.cache
+D:\Attendance&Leave Management System backend\Sprint1\obj\Debug\net5.0\Sprint1.AssemblyInfo.cs
+D:\Attendance&Leave Management System backend\Sprint1\obj\Debug\net5.0\Sprint1.csproj.CoreCompileInputs.cache
+D:\Attendance&Leave Management System backend\Sprint1\obj\Debug\net5.0\Sprint1.MvcApplicationPartsAssemblyInfo.cs
+D:\Attendance&Leave Management System backend\Sprint1\obj\Debug\net5.0\Sprint1.MvcApplicationPartsAssemblyInfo.cache
+D:\Attendance&Leave Management System backend\Sprint1\obj\Debug\net5.0\scopedcss\bundle\Sprint1.styles.css
+D:\Attendance&Leave Management System backend\Sprint1\obj\Debug\net5.0\staticwebassets\Sprint1.StaticWebAssets.Manifest.cache
+D:\Attendance&Leave Management System backend\Sprint1\obj\Debug\net5.0\Sprint1.RazorTargetAssemblyInfo.cache
+D:\Attendance&Leave Management System backend\Sprint1\obj\Debug\net5.0\Sprint1.csproj.CopyComplete
+D:\Attendance&Leave Management System backend\Sprint1\obj\Debug\net5.0\Sprint1.dll
+D:\Attendance&Leave Management System backend\Sprint1\obj\Debug\net5.0\refint\Sprint1.dll
+D:\Attendance&Leave Management System backend\Sprint1\obj\Debug\net5.0\Sprint1.pdb
+D:\Attendance&Leave Management System backend\Sprint1\obj\Debug\net5.0\Sprint1.genruntimeconfig.cache
+D:\Attendance&Leave Management System backend\Sprint1\obj\Debug\net5.0\ref\Sprint1.dll
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\appsettings.Development.json
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\appsettings.json
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\Sprint1.exe
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\Sprint1.deps.json
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\Sprint1.runtimeconfig.json
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\Sprint1.runtimeconfig.dev.json
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\Sprint1.dll
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\Sprint1.pdb
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\Humanizer.dll
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Sprint Project\Sprint1\obj\Debug\net5.0\Sprint1.csproj.AssemblyReference.cache
+D:\Sprint Project\Sprint1\obj\Debug\net5.0\Sprint1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sprint Project\Sprint1\obj\Debug\net5.0\Sprint1.AssemblyInfoInputs.cache
+D:\Sprint Project\Sprint1\obj\Debug\net5.0\Sprint1.AssemblyInfo.cs
+D:\Sprint Project\Sprint1\obj\Debug\net5.0\Sprint1.csproj.CoreCompileInputs.cache
+D:\Sprint Project\Sprint1\obj\Debug\net5.0\Sprint1.MvcApplicationPartsAssemblyInfo.cs
+D:\Sprint Project\Sprint1\obj\Debug\net5.0\Sprint1.MvcApplicationPartsAssemblyInfo.cache
+D:\Sprint Project\Sprint1\obj\Debug\net5.0\scopedcss\bundle\Sprint1.styles.css
+D:\Sprint Project\Sprint1\obj\Debug\net5.0\staticwebassets\Sprint1.StaticWebAssets.Manifest.cache
+D:\Sprint Project\Sprint1\obj\Debug\net5.0\Sprint1.RazorTargetAssemblyInfo.cache
+D:\Sprint Project\Sprint1\obj\Debug\net5.0\Sprint1.csproj.CopyComplete
+D:\Sprint Project\Sprint1\obj\Debug\net5.0\Sprint1.dll
+D:\Sprint Project\Sprint1\obj\Debug\net5.0\refint\Sprint1.dll
+D:\Sprint Project\Sprint1\obj\Debug\net5.0\Sprint1.pdb
+D:\Sprint Project\Sprint1\obj\Debug\net5.0\Sprint1.genruntimeconfig.cache
+D:\Sprint Project\Sprint1\obj\Debug\net5.0\ref\Sprint1.dll
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\Azure.Core.dll
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\Azure.Core.Amqp.dll
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\Azure.Messaging.ServiceBus.dll
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\Azure.Storage.Blobs.dll
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\Azure.Storage.Common.dll
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\Microsoft.Azure.Amqp.dll
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\System.IO.Hashing.dll
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\System.Memory.Data.dll
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\appsettings.Development.json
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\appsettings.json
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\Sprint1.exe
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\Sprint1.deps.json
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\Sprint1.runtimeconfig.json
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\Sprint1.runtimeconfig.dev.json
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\Sprint1.dll
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\Sprint1.pdb
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\Azure.Core.dll
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\Azure.Core.Amqp.dll
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\Azure.Identity.dll
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\Azure.Messaging.ServiceBus.dll
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\Azure.Storage.Blobs.dll
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\Azure.Storage.Common.dll
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\Azure.Storage.Files.Shares.dll
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\Azure.Storage.Queues.dll
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\Humanizer.dll
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\Microsoft.Azure.Amqp.dll
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\Microsoft.Extensions.Azure.dll
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\System.IO.Hashing.dll
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\System.Memory.Data.dll
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Sprint\Sprint Project\Sprint1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Sprint\Sprint Project\Sprint1\obj\Debug\net5.0\Sprint1.csproj.AssemblyReference.cache
+D:\Sprint\Sprint Project\Sprint1\obj\Debug\net5.0\Sprint1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sprint\Sprint Project\Sprint1\obj\Debug\net5.0\Sprint1.AssemblyInfoInputs.cache
+D:\Sprint\Sprint Project\Sprint1\obj\Debug\net5.0\Sprint1.AssemblyInfo.cs
+D:\Sprint\Sprint Project\Sprint1\obj\Debug\net5.0\Sprint1.csproj.CoreCompileInputs.cache
+D:\Sprint\Sprint Project\Sprint1\obj\Debug\net5.0\Sprint1.MvcApplicationPartsAssemblyInfo.cs
+D:\Sprint\Sprint Project\Sprint1\obj\Debug\net5.0\Sprint1.MvcApplicationPartsAssemblyInfo.cache
+D:\Sprint\Sprint Project\Sprint1\obj\Debug\net5.0\scopedcss\bundle\Sprint1.styles.css
+D:\Sprint\Sprint Project\Sprint1\obj\Debug\net5.0\staticwebassets\Sprint1.StaticWebAssets.Manifest.cache
+D:\Sprint\Sprint Project\Sprint1\obj\Debug\net5.0\Sprint1.RazorTargetAssemblyInfo.cache
+D:\Sprint\Sprint Project\Sprint1\obj\Debug\net5.0\Sprint1.csproj.CopyComplete
+D:\Sprint\Sprint Project\Sprint1\obj\Debug\net5.0\Sprint1.dll
+D:\Sprint\Sprint Project\Sprint1\obj\Debug\net5.0\refint\Sprint1.dll
+D:\Sprint\Sprint Project\Sprint1\obj\Debug\net5.0\Sprint1.pdb
+D:\Sprint\Sprint Project\Sprint1\obj\Debug\net5.0\Sprint1.genruntimeconfig.cache
+D:\Sprint\Sprint Project\Sprint1\obj\Debug\net5.0\ref\Sprint1.dll
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\Azure.Identity.dll
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\Azure.Storage.Files.Shares.dll
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\Azure.Storage.Queues.dll
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\Microsoft.Extensions.Azure.dll
+D:\Sprint Project\Sprint1\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\appsettings.Development.json
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\appsettings.json
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\Sprint1.exe
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\Sprint1.deps.json
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\Sprint1.runtimeconfig.json
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\Sprint1.runtimeconfig.dev.json
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\Sprint1.dll
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\ref\Sprint1.dll
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\Sprint1.pdb
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\Azure.Core.dll
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\Azure.Core.Amqp.dll
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\Azure.Identity.dll
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\Azure.Messaging.ServiceBus.dll
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\Azure.Storage.Blobs.dll
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\Azure.Storage.Common.dll
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\Azure.Storage.Files.Shares.dll
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\Azure.Storage.Queues.dll
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\Humanizer.dll
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\Microsoft.Azure.Amqp.dll
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\Microsoft.Extensions.Azure.dll
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\System.IO.Hashing.dll
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\System.Memory.Data.dll
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\obj\Debug\net5.0\Sprint1.csproj.AssemblyReference.cache
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\obj\Debug\net5.0\Sprint1.GeneratedMSBuildEditorConfig.editorconfig
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\obj\Debug\net5.0\Sprint1.AssemblyInfoInputs.cache
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\obj\Debug\net5.0\Sprint1.AssemblyInfo.cs
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\obj\Debug\net5.0\Sprint1.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\obj\Debug\net5.0\Sprint1.MvcApplicationPartsAssemblyInfo.cs
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\obj\Debug\net5.0\Sprint1.MvcApplicationPartsAssemblyInfo.cache
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\obj\Debug\net5.0\staticwebassets\Sprint1.StaticWebAssets.Manifest.cache
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\obj\Debug\net5.0\staticwebassets\Sprint1.StaticWebAssets.xml
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\obj\Debug\net5.0\scopedcss\bundle\Sprint1.styles.css
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\obj\Debug\net5.0\Sprint1.RazorTargetAssemblyInfo.cache
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\obj\Debug\net5.0\Sprint1.csproj.CopyComplete
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\obj\Debug\net5.0\Sprint1.dll
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\obj\Debug\net5.0\ref\Sprint1.dll
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\obj\Debug\net5.0\Sprint1.pdb
+E:\CAPGEMINI\CapgiProject\API PRoject\060522\vs\Sprint1\obj\Debug\net5.0\Sprint1.genruntimeconfig.cache

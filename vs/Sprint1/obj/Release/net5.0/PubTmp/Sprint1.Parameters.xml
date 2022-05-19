@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="attendanceandleave" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^E:\\CAPGEMINI\\CapgiProject\\API\ PRoject\\060522\\vs\\Sprint1\\obj\\Release\\net5\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
